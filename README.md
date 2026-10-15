@@ -9,16 +9,16 @@ I mostly build backend software: databases, networked systems, and lately distri
 
 ## What I'm building
 
-**[Pulse](https://github.com/Drivera0/pulse)** · Go, TypeScript, WebRTC, TimescaleDB
+**[Pulse](https://github.com/Drivera0/pulse)** · Go, TypeScript, WebRTC, TimescaleDB<br>
 Early warning for crowd crushes, using the phones already in the crowd. Instead of watching one phone at a time, it compares the timing of motion between neighbouring phones, which is how it tells a real push apart from dancing or a stadium wave. Built solo at StormHacks 2026. The Gemini API only writes the alert briefings; the Go server makes every detection decision. All numbers come from simulation, and the runs it missed are published next to the ones it caught.
 
-**[whorl-touch](https://github.com/Drivera0/whorl-touch-public)** · KiCad, nRF52840, Python
+**[whorl-touch](https://github.com/Drivera0/whorl-touch-public)** · KiCad, nRF52840, Python<br>
 A fingerprint-auth knob module for my NuPhy Air75 V3, with the full design history kept commit by commit. A Python preflight checks the board file before every fab order, after I learned the hard way that AI-written checkers can pass a broken design.
 
-**[Places.ai](https://github.com/bcs-fotr/places-ai)** · React, TypeScript, Supabase
+**[Places.ai](https://github.com/bcs-fotr/places-ai)** · React, TypeScript, Supabase<br>
 A trip planner built by a team of four in 24 hours at StormHacks 2025. I owned the frontend integration, including the drag-and-drop itinerary builder.
 
-**[wedding-website-template](https://github.com/Drivera0/wedding-website-template)** · React, TypeScript, Tailwind, Supabase
+**[wedding-website-template](https://github.com/Drivera0/wedding-website-template)** · React, TypeScript, Tailwind, Supabase<br>
 A wedding site with personal invitations, RSVPs and an admin dashboard. Runs in demo mode with placeholder data.
 
 ## Other work I'd like to talk about
