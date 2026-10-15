@@ -1,7 +1,4 @@
 <h1 align="center">Hi, I'm Daniel</h1>
-<p align="center">
-  Backend and systems developer
-</p>
 
 <p align="center">
   <a href="https://driver0.dev"><img src="https://img.shields.io/badge/driver0.dev-000000?style=flat&logo=googlechrome&logoColor=white" alt="Website"></a>
