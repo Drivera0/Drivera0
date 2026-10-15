@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/drivera0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-I mostly build backend software: databases, networked systems, and lately distributed systems in Go. I care about tools that fail loudly instead of being quietly wrong, and I like checking my work against real data before trusting it.
+I mostly build backend software: databases, networked systems, and lately distributed systems in Go.
 
 ## What I'm building
 
