@@ -9,6 +9,9 @@ I mostly build backend software: databases, networked systems, and lately distri
 
 ## What I'm building
 
+**[Sightline](https://github.com/Drivera0/sightline)** · Python, YOLO11, FastAPI, React, TypeScript, MapLibre<br>
+Finds the missing hiker in hundreds of search-and-rescue drone photos, then shows the rescue team where to look next. A detector ranks the photos for human review, and a Bayesian probability map updates after every photo, so ground hidden under trees is never marked as cleared. On the HERIDAL test set it finds 90% of people, where human reviewers in a published study found 68% with the same scoring. Built by a team of four in 24 hours at BCS Hackathon 2026, where it won Best Use of Technology for Social Good. I owned the pipeline and the website: the map, review queue and results screens.
+
 **[Pulse](https://github.com/Drivera0/pulse)** · Go, TypeScript, WebRTC, TimescaleDB<br>
 Early warning for crowd crushes, using the phones already in the crowd. Instead of watching one phone at a time, it compares the timing of motion between neighbouring phones, which is how it tells a real push apart from dancing or a stadium wave. Built solo at StormHacks 2026. The Gemini API only writes the alert briefings; the Go server makes every detection decision. All numbers come from simulation, and the runs it missed are published next to the ones it caught.
 
